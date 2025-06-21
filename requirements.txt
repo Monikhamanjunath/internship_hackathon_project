@@ -1,0 +1,7 @@
+streamlit
+PyPDF2
+googletrans==4.0.0rc1
+fpdf
+transformers
+torch
+pymupdf
